@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Volcomix/gulp-ambient-typescript#readme",
   "dependencies": {
-    "minimatch": "^2.0.8",
+    "minimatch": "^3.0.4",
     "through2": "^2.0.0"
   }
 }
